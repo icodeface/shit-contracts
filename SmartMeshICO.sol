@@ -1,5 +1,5 @@
 // issue type: overflow
-// issue function approveProxy
+// issue function transferProxy
 // txid: 0x1abab4c8db9a30e703114528e31dee129a3a758f7f8abc3b6494aad3d304e43f 
 
 
