@@ -1,4 +1,4 @@
-// issue type: overflow
+// issue type: authorization check
 // issue function: transferFrom
 
 pragma solidity ^0.4.18;
